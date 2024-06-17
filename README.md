@@ -1,4 +1,4 @@
-# <a href="https://www.redhat.com/en/services/certification/rhcsa" target="_blank"><b>Linux System Admin Exam Code :EX200 </b></a>
+# <a href="https://www.redhat.com/en/services/certification/rhcsa" target="_blank "><b>Linux System Admin Exam Code :EX200 </b></a>
 <b>RHCSA EXAM v9-EX200</b>
 
 ------<b>SYLLABUS</b>--------------------------------------------------------------------------------------------------------------------------------
